@@ -24,5 +24,5 @@ class Dog
     return @@all
   end
 
-  
+
 end
